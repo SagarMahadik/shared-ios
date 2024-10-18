@@ -1,0 +1,33 @@
+{
+  "originHash" : "04e4df6042f39c1b0ac47c9321438cd4c94afb5e8e5e49d791225a3bd8437be0",
+  "pins" : [
+    {
+      "identity" : "anycodable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Flight-School/AnyCodable.git",
+      "state" : {
+        "revision" : "862808b2070cd908cb04f9aafe7de83d35f81b05",
+        "version" : "0.6.7"
+      }
+    },
+    {
+      "identity" : "grdb.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/groue/GRDB.swift.git",
+      "state" : {
+        "revision" : "dd7e7f39e8e4d7a22d258d9809a882f914690b01",
+        "version" : "5.26.1"
+      }
+    },
+    {
+      "identity" : "swift-eventsource",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/LaunchDarkly/swift-eventsource.git",
+      "state" : {
+        "revision" : "57051701c58a93603ffa2051f8e9cf0c8cff7814",
+        "version" : "3.3.0"
+      }
+    }
+  ],
+  "version" : 3
+}
